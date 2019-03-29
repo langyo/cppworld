@@ -1,6 +1,7 @@
 # Table of contents
 
-* [《这是 C++ 的世界！》索引](README.md)
+* [索引](README.md)
+* [序](first.md)
 * [关于作者](about.md)
 
 ## 第一弹 - 第一章 - 新的征程
