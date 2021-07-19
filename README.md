@@ -1,10 +1,12 @@
-# 索引
+# 这是 C++ 的世界！
 
-> 由于本人水平有限，加上学业繁重，该仓库将继续进入冬眠状态，不定期更新……
->
-> 暂不接受以接坑为理由的 PR……本人仍然有想更新该电子书的想法，但在此之前需要从头再好好学一遍 C++……
->
-> （有句话说得好，C++ 越学越觉得自己才刚入门……）
+> 最近该电子书将准备更新
+
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
+
+
 
 * [序](first.md)
 
